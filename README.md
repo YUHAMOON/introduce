@@ -6,3 +6,4 @@ I am a student
 nice to meet you !
 bye ~
 ## 2. 특기 업데이트
+## 1. 취미 업데이트
